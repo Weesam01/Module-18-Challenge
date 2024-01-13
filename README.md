@@ -29,6 +29,6 @@ Verify the block contents and hashes in the Streamlit drop-down menu.
 Test the blockchain validation process by using the web interface. 
 
 
-![Alt text](Images/Pic5.PNG)
-![Alt text](Images/Pic5.PNG)
-![Alt text](Images/Pic5.PNG)
+![Alt text](Images/ph1.PNG)
+![Alt text](Images/ph2.PNG)
+
